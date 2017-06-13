@@ -1,28 +1,4 @@
-# `@orodio/gate`
-
-[![Build Status](https://travis-ci.org/orodio/gate.svg?branch=master)](https://travis-ci.org/orodio/gate)
-
-### Install
-
-```
-yarn add @orodio/gate
-```
-
-### Use
-
-```
-import gate from "@orodio/gate"
-
-const { isUnlocked, isLocked, lock, unlock } = gate() // same as gate(true)
-isLocked()   // true
-isUnlocked() // false
-unlock()
-isLocked()   // false
-isUnlocked() // true
-lock()
-isLocked()   // true
-isUnlocked() // false
-```
+# `@orodio/gendux`
 
 ### Dev
 

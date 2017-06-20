@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createStore 1`] = `
+Object {
+  "count": 5,
+}
+`;
+
+exports[`createStore 2`] = `
+Object {
+  "count": 6,
+}
+`;
+
+exports[`createStore 3`] = `
+Object {
+  "count": 7,
+}
+`;
+
+exports[`createStore 4`] = `
+Object {
+  "count": 8,
+}
+`;
+
+exports[`createStore 5`] = `
+Object {
+  "count": 9,
+}
+`;
+
+exports[`createStore 6`] = `
+Object {
+  "count": 10,
+}
+`;
+
+exports[`createStore 7`] = `
+Object {
+  "count": 11,
+}
+`;
